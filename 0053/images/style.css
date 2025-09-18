@@ -1,0 +1,57 @@
+BODY {
+	background: #e9e4d3;
+}
+TD {
+	FONT-SIZE: 14px; COLOR: #666666; FONT-FAMILY: Verdana, Arial CE, Arial, Helvetica, Tahoma
+}
+A {
+	FONT-SIZE: 14px; COLOR: #272B86; FONT-FAMILY: Verdana, Arial CE, Arial, Helvetica, Tahoma; FONT-WEIGHT: bold; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff9900
+}
+INPUT {
+	BORDER-RIGHT: #666666 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #666666 1px solid; PADDING-LEFT: 1px; FONT-SIZE: 10px; PADDING-BOTTOM: 1px; BORDER-LEFT: #666666 1px solid; COLOR: #000000; PADDING-TOP: 1px; BORDER-BOTTOM: #666666 1px solid; FONT-FAMILY: Verdana, Arial CE, Arial, Tahoma, Helvetica
+}
+TEXTAREA {
+	BORDER-RIGHT: #666666 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #666666 1px solid; PADDING-LEFT: 1px; FONT-SIZE: 10px; PADDING-BOTTOM: 1px; BORDER-LEFT: #666666 1px solid; COLOR: #000000; PADDING-TOP: 1px; BORDER-BOTTOM: #666666 1px solid; FONT-FAMILY: Verdana, Arial CE, Arial, Tahoma, Helvetica
+}
+SELECT {
+	BORDER-RIGHT: #666666 1px solid; PADDING-RIGHT: 1px; BORDER-TOP: #666666 1px solid; PADDING-LEFT: 1px; FONT-SIZE: 10px; PADDING-BOTTOM: 1px; BORDER-LEFT: #666666 1px solid; COLOR: #000000; PADDING-TOP: 1px; BORDER-BOTTOM: #666666 1px solid; FONT-FAMILY: Verdana, Arial CE, Arial, Tahoma, Helvetica
+}
+.awhite {
+	FONT-SIZE: 11px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial CE, Arial, Helvetica, Tahoma; TEXT-DECORATION: none
+}
+.awhite:hover {
+	COLOR: #333333
+}
+.foto {
+	FONT-SIZE: 11px; BORDER-LEFT-COLOR: #666666; BORDER-BOTTOM-COLOR: #666666; BORDER-TOP-COLOR: #666666; FONT-FAMILY: Verdana, Arial CE, Arial, Helvetica, Tahoma; BORDER-RIGHT-COLOR: #666666
+}
+.small {
+	FONT-SIZE: 10px; COLOR: #cccccc; FONT-FAMILY: Verdana, Arial CE, Arial, Helvetica, Tahoma
+}
+.small_kontakt {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: Verdana, Arial CE, Arial, Helvetica, Tahoma
+}
+.sfoto {
+	FONT-SIZE: 10px; COLOR: #666666; FONT-FAMILY: Verdana, Arial CE, Arial, Helvetica, Tahoma
+}
+.max {
+	FONT-SIZE: 10px; COLOR: #ffd33c; FONT-FAMILY: Verdana, Arial CE, Arial, Helvetica, Tahoma
+}
+div b b a {
+	  background: url("../images/abus_icon_hover.png") no-repeat scroll 50% 0 / contain rgba(0, 0, 0, 0);
+    cursor: pointer;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 500;
+    height: 35px;
+    list-style-type: none;
+	margin-right: 7px;
+    padding: 9px 0;
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    width: 45px;
+}
